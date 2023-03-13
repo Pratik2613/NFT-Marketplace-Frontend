@@ -120,7 +120,7 @@
     "inputs": [
       { "internalType": "address", "name": "buyer", "type": "address" }
     ],
-    "name": "DisplayTokensBougth",
+    "name": "DisplayTokensBought",
     "outputs": [
       {
         "components": [
